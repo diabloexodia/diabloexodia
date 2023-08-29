@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=diabloexodia&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![diabloexodia's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabloexodia&show_icons=true&theme=tokyonight&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![diabloexodia's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabloexodia&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabloexodia&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
