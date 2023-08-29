@@ -8,7 +8,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2eGNxcWxuMnh1ZmV1cXY0NTk3am9vcWtoYnp4dXFodXlsYWQ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eg7s3pu8FZjL3GINg6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2eGNxcWxuMnh1ZmV1cXY0NTk3am9vcWtoYnp4dXFodXlsYWQ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eg7s3pu8FZjL3GINg6/giphy.gif" height="500" width="500"/>
   
 <div id="badges">
   <a href=https://www.linkedin.com/in/dhyan-prasad-060-/">
