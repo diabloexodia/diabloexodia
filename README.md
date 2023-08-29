@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there, Welcome to my GitHub.👋
+
+- :telescope: I’m a cloud develpoer from India who is interested in designing scalable, resilient and fault-tolerant solutions in the cloud.
+
+- :seedling: AWS certified Solutions Architect Associate
+
+- :zap: In my free time, I'd be lore-hunting for my favorite games.
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc2eGNxcWxuMnh1ZmV1cXY0NTk3am9vcWtoYnp4dXFodXlsYWQ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eg7s3pu8FZjL3GINg6/giphy.gif" width="100"/>
   
 <div id="badges">
   <a href=https://www.linkedin.com/in/dhyan-prasad-060-/">
