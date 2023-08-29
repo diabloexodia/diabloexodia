@@ -19,12 +19,13 @@
   </a>
   <a href="https://twitter.com/DiabloExodia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <br>
 <img src="https://komarev.com/ghpvc/?username=diabloexodia&style=flat-square&color=blue" alt=""/>
 </div>
 
 [![diabloexodia's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabloexodia&show_icons=true&theme=tokyonight&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabloexodia&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabloexodia&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **diabloexodia/diabloexodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
