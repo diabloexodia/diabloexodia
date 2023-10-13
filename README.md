@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my GitHub.👋
 
-- :telescope: I’m a cloud develpoer from India who is interested in designing scalable, resilient and fault-tolerant solutions in the cloud.
+- :telescope: I’m an aspiring DevOps Engineer from India who is interested in designing scalable, resilient and fault-tolerant solutions leveraging cloud services.
 
 - :seedling: AWS certified Solutions Architect Associate
 
