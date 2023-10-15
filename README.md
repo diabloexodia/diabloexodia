@@ -2,9 +2,9 @@
 
 - ♾️: I’m an aspiring DevOps Engineer from India who is interested in designing scalable, resilient and fault-tolerant solutions leveraging cloud services.
 
-- :seedling: AWS certified Solutions Architect Associate
+- ☁️: AWS certified Solutions Architect Associate
 
-- :zap: In my free time, I'd be lore-hunting for my favorite games.
+- 🎮: In my free time, I'd be lore-hunting for my favorite games.
 
 
 <div id="header" align="center">
