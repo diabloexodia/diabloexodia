@@ -4,6 +4,8 @@
 
  ☁️: AWS certified Solutions Architect Associate.
 
+ 🌃: Currently working on Fullstack projects (Angular + .NET)
+
  🎮: In my free time, I'd be lore-hunting for my favorite games.
 
 
